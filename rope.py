@@ -9,7 +9,7 @@ INF = 999999999
 
 def ReadTracks():
 
-	file = open("datatsne.csv", "r")
+	file = open("data/datatsne.csv", "r")
 	reader = csv.reader(file, delimiter=",")
 
 	#Skip the head
