@@ -25,6 +25,7 @@ def ReadTracks():
 		song_info["coord"] = map(float, row[4:])
 
 		track[song_id] = song_info
+	file.close()
 
 	return track
 
