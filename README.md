@@ -1,5 +1,5 @@
 # PlaylistGenerators
-Algorithm to automatically generate music playlists.
+Algorithms to automatically generate music playlists.
 
 ROPE (B**ro**wnian **P**ath g**e**erator) is an algorithm that generates a random path in a music space. This path is created using a Brownian Motion.
 
